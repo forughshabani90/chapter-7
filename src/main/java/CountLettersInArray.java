@@ -16,6 +16,7 @@ public class CountLettersInArray {
             return chars;
 
     }
+
     public static void displayArray(char[] chars){
         for (int i = 0; i < chars.length; i++) {
             if ((i+1)%20==0)
